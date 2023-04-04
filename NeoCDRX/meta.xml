@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="2">
+  <name>NeoCD RX</name>
+  <coder>NiuuS</coder>
+  <version>1.0.02</version>
+  <release_date>20230403142522</release_date>
+  <short_description>Neo Geo CD Emulator</short_description> 
+  <long_description>Features:
+- Wiimote, Wiimote Plus, Wiimote+Nunchuk, and GameCube controller support
+- Neo Geo CD Virtual Memory Card saving to SD/USB or physical GameCube card for max nostalgia!
+- Region select for uncut content and extra languages
+- Super fast loading times, unlike the original console!
+- UStealth USB devices support
+- SD/SDHC, USB, WKF (GameCube), IDE-EXI V1, DVD support
+- Sound FX / Music 3-Band equalizer
+
+NeoCDRX is a Neo-Geo CD/CDZ emulator, running on the GameCube, Wii, and Wii U's Virtual Wii, forked from NEO-CD REDUX.
+
+Please read the NeoCDRX_manual.pdf included in the zip.
+https://github.com/niuus/NeoCDRX
+  </long_description>
+  <no_ios_reload/>
+</app>
