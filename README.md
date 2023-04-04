@@ -43,7 +43,7 @@ https://github.com/emukidid/neogeo-cd-redux
 * Rearranged internal menus for future expansion.
 * Some tidying up.
 
-[older update history in the NeoCDRX_manual.pdf]
+[older update history in the https://github.com/niuus/NeoCDRX/blob/main/NeoCDRX_manual.pdf]
 
 
 ## INSTALLATION AND USE
@@ -116,7 +116,7 @@ The music tracks need to be encoded from the original CD's Red Book standard
 "**_TrackXX.mp3_**" where XX is a number that always starts at 02, as the data
 track is always 01. Free CD audio ripping software is readily available.
 
-Examples and pictures are inside the **NeoCDRX_manual.pdf**
+Examples and pictures are inside the **https://github.com/niuus/NeoCDRX/blob/main/NeoCDRX_manual.pdf**
 
 After this, you are more than ready to start playing. Each game folder you
 make will be treated by the emulator as a full CD.
